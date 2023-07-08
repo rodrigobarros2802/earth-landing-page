@@ -163,3 +163,8 @@ section .content {
     letter-spacing: 1px;
     font-size: 1.3em;
 }
+
+.contentBlocks .blocks p{
+    color: #fff;
+    font-weight: 300;
+}
