@@ -139,14 +139,21 @@ section .content {
     transform: scale(0.6);
 }
 
-/*
 .contentBlocks {
     position: absolute;
     bottom: 0;
     display: flex;
-    justify-content: space-between;
+    
+}
+
+.contentBlocks .blocks {
+    position: relative;
+    display: inline;
+    justify-content: center;
     align-items: center;
-    max-width: 600px;
+    padding: 20px;
+    margin-right: 40px;
+    max-width: 500px;
     background: rgba(0, 255, 0, 0.2);
 }
 
