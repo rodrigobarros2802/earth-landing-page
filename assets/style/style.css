@@ -75,10 +75,17 @@ section header .toggle {
 }
 
 
-.content {
+section .content {
     position: relative;
     display: inline-block;
     justify-content: center;
     align-items: center;
     max-width: 600px;
+}
+
+.content h2 {
+    color: #fff;
+    font-size: 3em;
+    font-weight: 500;
+    line-height: 3em;
 }
