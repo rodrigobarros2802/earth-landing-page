@@ -65,3 +65,11 @@ section header .toggle {
     height: 100%;
     object-fit: cover;
 }
+
+.bird {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    max-height: 80%;
+    padding-right: 20px;
+}
