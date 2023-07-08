@@ -6,5 +6,6 @@ document.addEventListener ('mousemove', function(e) {
     bg.style.width = 100 + e.pageX/100 + '%';
     bg.style.height = 100 + e.pageX/100 + '%';
 
+    bird.style.right = e.pageX/2 + 'px';
 
 })

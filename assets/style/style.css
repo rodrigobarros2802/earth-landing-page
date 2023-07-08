@@ -73,6 +73,7 @@ section header .toggle {
     right: 0;
     max-height: 80%;
     padding-right: 150px;
+    z-index: 100;
 }
 
 
