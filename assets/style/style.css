@@ -77,8 +77,9 @@ section header .toggle {
 }
 
 
-section .content {
-    position: relative;
+.content {
+    position: absolute;
+    left: 100;
     display: inline-block;
     justify-content: center;
     align-items: center;
