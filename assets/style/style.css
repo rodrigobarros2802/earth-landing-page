@@ -157,3 +157,9 @@ section .content {
     background: rgba(0, 255, 0, 0.2);
 }
 
+.contentBlocks .blocks h3 {
+    color: #fff;
+    font-weight: 600;
+    letter-spacing: 1px;
+    font-size: 1.3em;
+}
